@@ -1,8 +1,6 @@
-
 VAR
-
-END_VAR
-
-VAR CONSTANT
-
+	var2 : BOOL;
+	var3 : BOOL;
+	var4 : BOOL;
+	var1 : BOOL;
 END_VAR
